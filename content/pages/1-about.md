@@ -1,0 +1,8 @@
+Title: About Us
+
+The Grosse Pointe Moms Club was co-founded in 2000 by Grosse Pointe residents. They were new moms seeking peer support and socialization for their children. Realizing a group like this didn’t exist in the greater Grosse Pointe area, the ambitious new moms decided to start one.
+After much research, they decided to affiliate with the International MOMS Club (Moms Offering Moms Support). They held an open house to promote the club at a local church. Hoping for attendance by anyone, they were thrilled (and overwhelmed!) to meet more than 25 moms and 48 children that day.
+The club prospered under the MOMS umbrella for 3 ½ years. As membership grew to more than 70 moms, it became necessary for the club to localize under a non-affiliated group of its own.
+
+In 2004, the Grosse Pointe Moms Club, Inc. was born, offering the same benefits and activities as it always had. Today, the club continues to be an important resource for mothers in the community. It offers numerous opportunities for moms to get together each month, maintaining the core mission to provide a supportive, social environment for moms and their children. Through an extensive service program, the club actively contributes to those less fortunate in our larger community. Furthermore, the club’s board of directors and coordinator positions offer a small outlet for moms’ management skills and an escape from “baby brain.” The club is a tremendous resource for moms, especially those who are new to motherhood and/or Grosse Pointe.
+All of the GP Mom’s Club activities were created to meet the needs of our members’ varied interests. Throughout the year, we review our programs to ensure they continue to do just that!

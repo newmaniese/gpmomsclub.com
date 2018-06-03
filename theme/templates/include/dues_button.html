@@ -1,0 +1,27 @@
+<a href="https://paypal.me/gpmoms" type="button" id="sendDues" class="btn">
+  Yearly Membership - $45
+</a>
+<script type="text/javascript">
+(function() {
+  var dues_array = [
+      30,
+      26.25,
+      22.5,
+      18.75,
+      15,
+      11.25,
+      7.5,
+      3.75,
+      45,
+      41.25,
+      37.5,
+      33.75
+    ],
+    btn = document.getElementById("sendDues"),
+    today = new Date();
+  var month = today.getMonth();
+  var amt_due = dues_array[month].toFixed(2);
+  btn.href += "/" + dues_array[month];
+  btn.innerHTML += "<br>Prorated $" + amt_due + " for " + today.toLocaleString("us-en", {month : "long"});
+}());
+</script>

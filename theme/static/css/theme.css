@@ -1,0 +1,126 @@
+body {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  color: #594A43;
+}
+
+h1 {
+  font-family: 'Fredericka the Great';
+  padding: 2rem 1rem 0;
+  color: #8DC350;
+}
+
+h2 {
+  font-family: 'Fredericka the Great';
+  padding: 1rem .5rem 0;
+  color: #E15530;
+  font-size:1.4rem;
+  font-weight: bolder;
+}
+
+#gpmc-logo {
+  width: 100%;
+  position:relative;
+  max-width: 400px;
+}
+
+#gpmc-logo img {
+  width:100%;
+  padding:0 20%;
+}
+#gpmc-logo-text {
+  position: absolute;
+  top: 68%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  width:100%;
+  padding:0 10% 0 10%;
+}
+#gpmc-logo-text a {
+  font-family: 'Fredericka the Great';
+  line-height:2.5rem;
+  color: #ed1922;
+  font-size: 3.1rem;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  margin:0;
+}
+
+#gpmc-logo-text span {
+  color: #ed1922;
+  display: inline-block;
+  margin: 0;
+}
+
+#gpmc-logo-text-grosse {
+  letter-spacing: -.03rem;
+}
+#gpmc-logo-text-pointe {
+  letter-spacing: -.03rem;
+}
+
+#gpmc-logo-text-moms {
+  letter-spacing: .03rem;
+}
+#gpmc-logo-text-club {
+  letter-spacing: .085rem;
+}
+
+#gpmc-logo-tagline {
+  text-align:center;
+  line-height:.9rem;
+  letter-spacing: -.02rem;
+  font-family: 'Lucida Sans Unicode';
+  font-size: 80%;
+}
+
+header nav, header nav li {
+  font-family: 'Fredericka the Great';
+  text-align: center;
+  font-size: 1.2rem;
+  padding: 0;
+}
+header nav li a {
+  color: #2AB3A6;
+}
+header nav li a:hover {
+  color: #E5924C;
+}
+
+@media all and (min-width: 768px) {
+  #navbarCollapse {
+    position:absolute;
+    width:100%;
+    bottom: 0;
+  }
+  #navbarCollapse ul {
+    width:100%;
+  }
+}
+@media all and (max-width: 768px) {
+  #gpmc-logo-text a {
+    font-size:2.3rem;
+    line-height:2rem;
+  }
+}
+@media all and (max-width: 768px) {
+  #gpmc-logo-text a {
+    font-size:1.8rem;
+    line-height:1.7rem;
+  }
+}
+@media all and (max-width: 480px) {
+  #gpmc-logo-text a {
+    font-size:1.5rem;
+    line-height:1.4rem;
+  }
+}
+@media all and (max-width: 380px) {
+  #gpmc-logo-text a {
+    font-size:1.2rem;
+    line-height:1rem;
+  }
+  #gpmc-logo-text {
+    top: 60%;
+  }
+}
