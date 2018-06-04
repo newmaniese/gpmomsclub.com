@@ -21,4 +21,4 @@ deploy:
   on:
     repo: newmaniese/gpmomsclub.com
   before-deploy:
-    echo (ls -la); echo (pwd)
+    "echo (ls -la); echo (pwd)"
