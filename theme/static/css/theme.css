@@ -94,7 +94,8 @@ header nav li a:hover {
     bottom: 0;
   }
   #navbarCollapse ul {
-    width:100%;
+    width:95%;
+    margin: 0 auto;
   }
 }
 @media all and (max-width: 768px) {
