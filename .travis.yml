@@ -10,6 +10,7 @@ branches:
   - master
 deploy:
   provider: s3
+  skip_cleanup: true
   access_key_id:
     secure: "iZI/3rmYYQWfFMhRr3XCboUmu0E43CES3o6kWXq1qVu7QyJHfllUNw+OJ6rT0ErdwobnvwpLbTJ+E3GcWbQrjzagX+VwsHYvLr2msgLUul7gajv+aw99NP1T+RcLhO1ogv91tRfMQ72Rk0ZvrRHnooqNHmg5xKCCjwIET3R8QlJ+oOElWA6AIWDQINg0fu723IcJ644hVStoRg+KJnmpas5N245XCObcurxKqab0m+VeJ2ZVM1M/tU+CN+ynqQWjmF97AIz1+/FmX+1scAox4OWhKwXepz4G+qCi+IAIpY5yx6ANJAhyCHRI7YNEldhFa2JuOOzn6EFqRxokBPQmTIT4C5IYl8FRgzi1PbjHTVjC6oYOpU+UICSYqjRYj1zL//C26iqEHF0kVEuTLeRge+YUspxqZhUo1LO975OfX86R/oAhRDfoF3iHSvdycvRn4uAsNQUJ7bNhEu0VQDAtrauYT2TRt3YsKPKLhDaqn0wiOS1Aw9Ue7bnwNGc9jy7jlrFxJ5bl4Ytp4Fj41WHw51VYB0epgsjdE9RbNzuSSpRvY0VFRqXgVHyyoU81y8Mlq9bdghPXrhU809fnVKz+TOYNzVbhkRkx/7gkTySKRA4RK01JWBDD93e722gBhOMCX9cZxcf9zMorQMXGu3qToPcUSsHcDZrUWQ9PosdPvKk="
   secret_access_key:
@@ -20,5 +21,3 @@ deploy:
   acl: private
   on:
     repo: newmaniese/gpmomsclub.com
-  before-deploy:
-    "echo (ls -la); echo (pwd)"
