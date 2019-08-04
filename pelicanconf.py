@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
     ("Activities", "/pages/activities.html"),
-    ("Board", "/pages/moms-club-board.html"),
+#    ("Board", "/pages/moms-club-board.html"),
     ("Calendar", "/pages/calendar.html"),
     ("Membership", "/pages/membership-inquiries.html")
 )
