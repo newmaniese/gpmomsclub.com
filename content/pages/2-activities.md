@@ -25,23 +25,23 @@ A wonderful way to help each other and our families. New baby? Moving? Recoverin
 Our way of experiencing this community in a new way. We have been to petting zoos, bowling, story times, Greenfield Village... you name it!
 
 ##Moms Night Out
-One of the most well-attended programs for the club, is a monthly themed night out for mom’s only! Wine tastings, dining out and pottery making are but a few of the interesting evenings our members have enjoyed throughout the year.
+One of the most well-attended programs for the circle, is a monthly themed night out for mom’s only! Wine tastings, dining out and pottery making are but a few of the interesting evenings our members have enjoyed throughout the year.
 
 
 ##Socials
 Our socials are held at a local church facility. A light breakfast or snack is provided and a speaker is chosen on topics of interest to our members. Complimentary babysitting in the upstairs playrooms gives both mother and child a much-needed break!
 
 ##Philanthropy
-The club’s way of giving back to our community. A few times a year a different charity is chosen by the club as a whole and our moms pull together everything from food/clothing/diaper drives, member services auction, bingo night and adopt-a-family. We pride ourselves on our commitment to supporting other individuals and organizations.
+The circle’s way of giving back to our community. A few times a year a different charity is chosen by the circle as a whole and our moms pull together everything from food/clothing/diaper drives, member services auction, bingo night and adopt-a-family. We pride ourselves on our commitment to supporting other individuals and organizations.
 
 ##Playgroups
 Playgroups are a great way to forge lasting mom and child friendships. Our coordinator can connect you with moms of children with similar ages and interests.
 
 ##Potluck Playdate
-Originally designed to help moms with late-working spouses, this event has taken off in popularity. Beat the afternoon blues and mingle with your mom club friends and kiddos all while noshing on some favorite dishes to pass.
+Originally designed to help moms with late-working spouses, this event has taken off in popularity. Beat the afternoon blues and mingle with your mom circle friends and kiddos all while noshing on some favorite dishes to pass.
 
 ##Social Media
-We provide social media through our members-only Facebook groups for us to share ideas, coordinate activities or just plain chat about whatever comes to mind. Our private pages are always open and a great club resource! We also offer a "Garage Sale" page to buy and sell children's items between group members.
+We provide social media through our members-only Facebook groups for us to share ideas, coordinate activities or just plain chat about whatever comes to mind. Our private pages are always open and a great circle resource! We also offer a "Garage Sale" page to buy and sell children's items between group members.
 
 ##Special Events
-The club hosts a few special events each year.  Past events have included a New Year’s Celebration with spouses, a couples bowling and cocktails event, a family friendly summer BBQ and splash pad fun, and a summer’s end cocktail partyfor members.
+The circle hosts a few special events each year.  Past events have included a New Year’s Celebration with spouses, a couples bowling and cocktails event, a family friendly summer BBQ and splash pad fun, and a summer’s end cocktail partyfor members.

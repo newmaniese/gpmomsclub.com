@@ -16,7 +16,7 @@ title: Logos
   margin:15px 0 0 -5px;">
   <span>Grosse Pointe</span>
   <br>
-  <span style="letter-spacing:.17em">Moms Club</span>
+  <span style="letter-spacing:.17em">Moms Circle</span>
 </p>
 </div>
 
@@ -30,7 +30,7 @@ title: Logos
   ">
   <span style="float:left;letter-spacing: -.03em;">Grosse</span><span style="float:right;letter-spacing: -.03em;">Pointe</span>
   <br>
-  <span style="float:left;letter-spacing: .03em;">Moms</span><span style="float:right;letter-spacing: .085em;">Club</span>
+  <span style="float:left;letter-spacing: .03em;">Moms</span><span style="float:right;letter-spacing: .085em;">Circle</span>
 </p>
 </div>
 <p style="text-align:center;line-height:1em;font-family: 'Lucida Sans Unicode';">At-home moms don't<br>have to stay at home</p>

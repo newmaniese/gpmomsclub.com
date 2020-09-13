@@ -21,4 +21,4 @@ deploy:
   local-dir: output
   acl: private
   on:
-    repo: newmaniese/gpmomsclub.com
+    repo: newmaniese/gpmomscircle.com

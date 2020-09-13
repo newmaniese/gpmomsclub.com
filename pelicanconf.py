@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Grosse Pointe Mom'
-SITENAME = "Grosse Pointe Moms Club"
-SITEURL = 'https://www.gpmomsclub.com'
+SITENAME = "Grosse Pointe Moms Circle"
+SITEURL = 'https://www.gpmomscircle.com'
 
 PATH = 'content'
 
@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
     ("Activities", "/pages/activities.html"),
-#    ("Board", "/pages/moms-club-board.html"),
+    ("Board", "/pages/moms-circle-board.html"),
     ("Calendar", "/pages/calendar.html"),
     ("Membership", "/pages/membership-inquiries.html")
 )
